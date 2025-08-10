@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Remalli Rishith mKumar</h1>
+<h1 align="center">Hi 👋, I'm Remalli Rishith Kumar</h1>
 <h3 align="center">A passionate Electronics and Communication Graduate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishith5689&label=Profile%20views&color=0e75b6&style=flat" alt="rishith5689" /> </p>
