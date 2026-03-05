@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishith5689" alt="rishith5689" /></a> </p>
 
-- 🌱 I’m currently learning **POWER BI , DAX , SQL , Python**
+- 🌱 I’m currently learning **SPRING , SPRING BOOT , REACT**
 
 - 📫 How to reach me **rishithrao08@gmail.com**
 
